@@ -22,5 +22,21 @@
         font-weight: bold;
         border-radius: 10px;
     }
+    [center] {
+        display: flex;
+        justify-content: center;
+    }
+
+    [dobro] {
+        font-size: 2rem;
+    }
+
+    [azul] {
+        color: #4286f4;
+    }
+
+    [dobro] {
+        font-size: <?= 10 -8?>rem;
+    }
 
 </style>
